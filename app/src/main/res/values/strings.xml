@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CalculoIRA</string>
+    <string name="calcular_ira">Calcular IRA</string>
+    <string name="nota_label">Nota</string>
+    <string name="nota">ex: 60</string>
+</resources>
